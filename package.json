@@ -1,7 +1,7 @@
 {
   "name": "mac-desktop",
   "version": "0.1.0",
-  "homepage": "https://faiz-lab.github.io/mac-desktop",
+  "homepage": "https://faiz-lab.github.io/mac-desktop/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
