@@ -3,7 +3,7 @@ import './App.scss';
 
 function App() {
   return (
-    <div className="App">过家家</div>
+    <div className="App">过家家,玩游戏</div>
   );
 }
 
